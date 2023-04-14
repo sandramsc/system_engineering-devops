@@ -1,2 +1,0 @@
-#!/bin/bash
-chown vincent:_hello /path/to/_hello
