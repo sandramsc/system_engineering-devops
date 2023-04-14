@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1a | sort -n | awk '{print /bin/bash"/"*(substr(/bin/bash,length(/bin/bash),1)!=".")}' | tr '\n' ',' ; echo ""
+ls -1a | sed 's/$/,/' | sed 's/^\.*/&\//' | sed -r 's/^([0-9])/\1 /g' | sed -r 's/^([A-Za-z])/\1 /g' | sort | sed '1s/^/..\/\n.\/\n/' | tr -d '\n'; echo
