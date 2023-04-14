@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -1a | sort -n | awk '{print /bin/bash"/"*(substr(/bin/bash,length(/bin/bash),1)!=".")}' | tr '\n' ',' ; echo ""
