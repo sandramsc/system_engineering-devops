@@ -1,3 +1,2 @@
 #!/bin/bash
-
-tr 'Acf' 'ZeZ'
+echo "" | tr 'Ac' 'Ze'
