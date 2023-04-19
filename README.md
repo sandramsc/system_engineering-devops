@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">ALX</h1>
+  <h1 align="center">ALX - System Engineering & Devops</h1>
  <h2 2 align="center">
-  Ssystem Engineering & Devops
+  Month 0
     <br />
     </h2>
 
@@ -12,7 +12,7 @@ introduction to shell/linux/git and the world that is alx software engineering p
 ## Table of Contents
 
 <details>
-<summary>ALX ZERO DAY</summary>
+<summary>Month0</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -42,7 +42,6 @@ introduction to shell/linux/git and the world that is alx software engineering p
 1. Intro to Git & Github for Software Engineering
 
 2. Intro to Linux, Emacs and VIM
-
 
 
 **Step #1** - Clone the project
