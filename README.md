@@ -1,9 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">ALX - System Engineering & Devops</h1>
- <h2 2 align="center">
-  Month 0
-    <br />
-    </h2>
+  <h1 align="center">System Engineering & Devops</h1>
 
 ## Application Description
 
