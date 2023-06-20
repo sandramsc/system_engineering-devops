@@ -5,24 +5,6 @@
 
 This repository contains programs written for the system engineering and DevOps track at [Holberton School](https://www.holbertonschool.com/).
 
-## Table of Contents
-
-<details>
-<summary>Month0</summary>
-
-- [Application Description](#application-description)
-- [Table of Contents](#table-of-contents)
-- [Project Demo](#demo)
-- [Screenshots](#screenshots)
-- [Technology Stack](#technology-stack)
-- [Features](#features)
-- [How to use the app](#how-to-use-the-app)
-- [Collaborators](#collaborators)
-- [References](#references)
-- [License](#license)
-
-</details>
-
 ## Projects 
 | Project | Description |
 | --- | --- |
