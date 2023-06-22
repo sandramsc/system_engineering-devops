@@ -34,5 +34,4 @@ How to execute commands from a file in the current shell
 * [Variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
 * [Shell initialization files](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
 * [The alias Command](http://www.linfo.org/alias.html)
-* [Technical Writing](https://students-support.hbtn.io/hc/en-us/articles/360023750254)
 
