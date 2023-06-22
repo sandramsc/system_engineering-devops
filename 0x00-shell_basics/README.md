@@ -1,8 +1,6 @@
 # 0x00-shell_basics
 
 ## GENERAL :open_book::open_book::open_book::
-
-## Learning Objectives
 ###### General
 * What does RTFM mean?
 * What is a Shebang
